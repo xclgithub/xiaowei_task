@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+	width: 100%;
+	height: 100%;
+}
+.rect{
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:auto;
+	width:400px;
+	height:200px;
+	background:#ccc;
+}
+.circle1,.circle2{
+	position:absolute;
+	height:0;
+	width:0;
+	border-width:50px;
+	border-radius:50px;
+	border-style:solid;
+}
+.circle1{
+	top:-50px;
+	left:-50px;
+	transform:rotate(45deg);
+	border-color:#fff #ec0 #fff #fff;
+}
+.circle2{
+	bottom:-50px;
+	right:-50px;
+	border-color: #fff #fff #fff #ec0;
+	transform: rotate(45deg);
+}
