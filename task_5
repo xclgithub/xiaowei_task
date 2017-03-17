@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>task5</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/task5.css">
+</head>
+<body>
+	<header>
+		<figure>
+			<img src="img/baidu2.png">
+		</figure>
+		<nav>
+			<ul>
+				<li><a href="#">四大美人</a></li>
+				<li><a href="#">诗词歌赋</a></li>
+				<li><a href="#">相关典故</a></li>
+				<li><a href="#">古今美誉</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<article>
+			<section>
+				<h1>西施浣纱</h1>
+				<h2>西施的故事</h2>
+				<span>无名</span>&nbsp;&nbsp;
+				<span>公元前122</span>
+				<p>西施，名夷光，春秋时期越国人，出生	于浙江诸暨苎萝山村。西施是中国古代	 四大美人之一，又称西子。天生丽质。	    负重，以身救国，与郑旦一起被越王勾践献给吴王夫差，成为吴王最宠爱的妃子，乱吴宫，以霸越。西施施夷光世居越国苎萝。</p>
+				<p>宰嚭亡吴国，西施陷恶名。浣纱春水急，似有不平声。苎萝山下临浣纱溪，江中有浣纱石，传说西施常在此浣纱，西施滩因而得名。西施天生丽质，禀赋绝伦，相传连皱眉抚胸的病态，亦为邻女所仿，故有“东施效颦”的典故。越王勾践三年（公元前494年）</p>
+				<img src="img/pic1.jpg">
+				<p>夫差在夫椒（今江苏省吴县西南）击败越国，越王勾践退守会稽山（今浙江省绍兴南），受吴军围攻，被迫向吴国求和，勾践入吴为质。释归后，勾践针对吴王淫而好色的弱点，接纳大夫文种灭吴九策，其中最毒辣的便是美人计。大夫范蠡奉命巡行全国勘察美女。他来到苎萝村，遇到了郑旦和西施一对姊妹花。他爱郑旦，更爱西施，</p>
+				<p>一次假面舞会上，他向西施坦露了真情，西施也爱上了这位范郎。然而文种的到来结束了这段芬芳缠绵的爱情，他将郑旦和西施带回会稽，准备献给吴王夫差。[2]越王宠爱的一宫女认为：“真正的美人必须具备三个条件，一是美貌，二是善歌舞，三是体态。”西施只具备了第一个条件，于是，越王花了三年时间，教以歌舞、步履、礼仪等。</p>
+			</section>
+			<section>
+				<h1>昭君出塞</h1>
+				<h2>历史故事</h2>
+				<span>无名</span>&nbsp;&nbsp;
+				<span>公元前112</span>
+				<p>昭君出塞是中国历史上的一个真实故事。王昭君，名嫱(音qiáng)，字昭君，原为汉宫宫女。公元前34年，匈奴呼韩邪单于被他哥哥郅支单于打败，南迁至长城外的光禄塞下，同西汉结好，曾三次进长安入朝，并向汉元帝请求和亲。</p>
+				<p>她到匈奴后，被封为“宁胡阏氏”(阏氏，音焉支，意思是王后)，象征她将给匈奴带来和平、安宁和兴旺。后来呼韩邪单于在西汉的支持下控制了匈奴全境，从而使匈奴同汉朝和好达半个世纪。后来也有根据这个故事创作的诗歌、琵琶曲、戏剧、电视剧等艺术作品[1]  。</p>
+				<img src="img/pic2.jpg">
+				<ul>
+					<li>历史记载</li>
+					<li>民间传说</li>
+					<li>传统剧目</li>
+				</ul>
+			</section>
+			<section>
+				<h1>图片</h1>
+				<figure>
+					<img src="img/pic1.jpg">
+					<img src="img/pic2.jpg">
+					<img src="img/pic3.jpg">
+					<img src="img/pic4.jpg">
+					<img src="img/pic5.jpg">
+					<img src="img/pic6.jpg">
+					<img src="img/pic1.jpg">
+					<img src="img/pic2.jpg">
+					<img src="img/pic3.jpg">
+					<img src="img/pic4.jpg">
+				</figure>
+			</section>
+			<section>
+				<h1>貂蝉拜月</h1>
+				<h2>人物名称</h2>
+				<span>无名</span>&nbsp;&nbsp;<span>公元前321</span>
+				<ol>
+					<li>故事简介</li>
+					<li>后续</li>
+					<li>其他</li>
+				</ol>
+				<span class="tips">下面是一个表格</span>
+				<table>
+					<tbody>
+						<tr>
+							<th>名字</th>
+							<th>头衔</th>
+							<th>行为</th>
+						</tr>
+						<tr>
+							<td>西施</td>
+							<td>之首</td>
+							<td><a href="#">操作</a></td>
+						</tr>
+						<tr>
+							<td>王昭君</td>
+							<td>才女</td>
+							<td><a href="#">操作</a></td>
+						</tr>
+						<tr>
+							<td>貂蝉</td>
+							<td>拜月</td>
+							<td><a href="#">操作</a></td>
+						</tr>
+						<tr>
+							<td>杨贵妃</td>
+							<td>喝酒</td>
+							<td><a href="#">操作</a></td>
+						</tr>
+						<tr id="summary">
+							<td>总结</td>
+							<td colspan="2">真厉害</td>
+						</tr>
+					</tbody>
+				</table>
+			</section>
+		</article>
+		<aside>
+			<div></div>
+			<h1>这里是一个侧边栏</h1>
+			<form method="post" action="#">
+			<table>
+				<tbody>
+					<tr>
+						<td class="label">
+							<label>请输入邮箱地址</label>
+						</td>
+						<td>
+							<input type="text" name="email" placeholder="这是一个文本输入框">
+						</td>
+					</tr>
+					<tr>
+						<td class="label"></td>
+						<td><span>邮箱地址按要求格式输入</span></td>
+					</tr>
+					<tr>
+						<td class="label"><br/></td>
+					</tr>
+					<tr>
+						<td class="label">
+							<label>请输入密码</label>
+						</td>
+						<td>
+							<input type="password" name="password">
+						</td>
+					</tr>
+					<tr>
+						<td class="label">
+							<label>
+								请再次输入密码
+							</label>
+						</td>
+						<td>
+							<input type="password" name="password2">
+						</td>
+					</tr>
+					<tr>
+						<td class="label"></td>
+						<td>
+							<span>密码为6-16位有效字符</span>
+						</td>
+					</tr>
+					<tr>
+						<td class="label"><br/></td>
+					</tr>
+					<tr>
+						<td class="label">
+							<label>性别</label>
+						</td>
+						<td>
+							<input type="radio" name="gender">男
+							<input type="radio" name="gender">女
+						</td>
+					</tr>
+					<tr>
+						<td class="label">
+							<label>城市</label>
+						</td>
+						<td>
+							<select>
+								<option>北京</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td class="label">
+							<label>爱好</label>
+						</td>
+						<td>
+							<input type="checkbox" name="sports">运动
+							<input type="checkbox" name="art">艺术
+							<input type="checkbox" name="science">科学
+						</td>
+					</tr>
+					<tr>
+						<td class="label">
+							<label>个人描述</label>
+						</td>
+						<td>
+							<textarea placeholder="这是一个多行输入框，输入你的个人描述"></textarea>
+						</td>
+					</tr>
+					<tr><td colspan="2"><input id="button" type="submit" name="submit" value="确认"></td></tr>
+				</tbody>
+			</table>
+			</form>
+		</aside>
+	</main>
+	<footer>
+		版权所有&copy;
+	</footer>
+</body>
+</html>
