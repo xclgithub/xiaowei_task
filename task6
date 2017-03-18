@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>task6</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/task6.css">
+</head>
+<body>
+	<!--头部信息-->
+	<header>
+		<div>
+			ife.baidu.com
+		</div>
+		<span>
+			2016.03
+		</span>
+	</header>
+	<!--主体部分-->
+	<main>
+		<!--主体第一部分内容，两列布局-->
+		<section id="first">
+			<div>
+				<img src="img/pic1.jpg">
+				<span class="cover"></span>
+				<span class="cover"></span>
+				</div>
+			<aside>
+				<div class="line"></div>
+				<p>
+					<span>
+						<strong>A</strong>BOUT
+					</span>
+					<br/>
+					<span>
+						<strong>T</strong>ECHNOLOGE
+					</span>
+				</p>
+				<p class="tip">
+					About technologe about technologe about techonologe
+				</p>
+				<p class="num700">
+					700
+				</p>
+				<p class="num32">
+					3.2
+					<span>css</span>
+					<br/>
+					<span>
+						csscsscsscss
+					</span>
+				</p>
+			</aside>
+		</section>
+		<!--主体第二部分，三篇文章-->
+		<section id="second">
+			<article class="first">
+				<h1>
+					What
+				</h1>
+				<p>
+					西施，名夷光，春秋时期越国人，出生	于浙江诸暨苎萝山村。西施是中国古代	 四大美人之一，又称西子。天生丽质。	    负重，以身救国，与郑旦一起被越王勾践献给吴王夫差，成为吴王最宠爱的妃子，乱吴宫，以霸越。西施施夷光世居越国苎萝。
+				</p>
+			</article>
+			<article class="second">
+				<h1>
+					When
+				</h1>
+				<p>
+					夫差在夫椒（今江苏省吴县西南）击败越国，越王勾践退守会稽山（今浙江省绍兴南），受吴军围攻，被迫向吴国求和，勾践入吴为质。释归后，勾践针对吴王淫而好色的弱点，接纳大夫文种灭吴九策，其中最毒辣的便是美人计。大夫范蠡奉命巡行全国勘察美女。他来到苎萝村，遇到了郑旦和西施一对姊妹花。他爱郑旦，更爱西施
+				</p>
+			</article>
+			<article class="third">
+				<h1>
+					How
+				</h1>
+				<p>
+					一次假面舞会上，他向西施坦露了真情，西施也爱上了这位范郎。然而文种的到来结束了这段芬芳缠绵的爱情，他将郑旦和西施带回会稽，准备献给吴王夫差。[2]越王宠爱的一宫女认为：“真正的美人必须具备三个条件，一是美貌，二是善歌舞，三是体态。”西施只具备了第一个条件，于是，越王花了三年时间，教以歌舞、步履、礼仪等。
+				</p>
+				<ul>
+						<li>
+							what------<span>40%</span>
+						</li>
+						<li>
+							when------<span>30%</span>
+						</li>
+						<li>
+							how-------<span>30%</span>
+						</li>
+					</ul>
+			</article>
+		</section>
+		<!--主体第三部分，两列布局-->
+		<section id="third">
+			<article>
+				<h1>
+					<span>THE</span> TECHNOLOGE OF FRONT
+				</h1>
+				<h2>
+					前端技术领域
+				</h2>
+				<div class="line"></div>
+				<p>
+					<span>昭</span>君出塞是中国历史上的一个真实故事。王昭君，名嫱(音qiáng)，字昭君，原为汉宫宫女。公元前34年，匈奴呼韩邪单于被他哥哥郅支单于打败，南迁至长城外的光禄塞下，同西汉结好，曾三次进长安入朝，并向汉元帝请求和亲。
+				</p>
+				<p>
+					她到匈奴后，被封为“宁胡阏氏”(阏氏，音焉支，意思是王后)，象征她将给匈奴带来和平、安宁和兴旺。<img src="img/pic2.jpg">后来呼韩邪单于在西汉的支持下控制了匈奴全境，从而使匈奴同汉朝和好达半个世纪。后来也有根据这个故事创作的诗歌、琵琶曲、戏剧、电视剧等艺术作品
+				</p>
+				<p>
+					越王宠爱的一宫女认为：“真正的美人必须具备三个条件，一是美貌，二是善歌舞，三是体态。”西施只具备了第一个条件，于是，越王花了三年时间，教以歌舞、步履、礼仪等。后来呼韩邪单于在西汉的支持下控制了匈奴全境，从而使匈奴同汉朝和好达半个世纪。后来也有根据这个故事创作的诗歌、琵琶曲、越王宠爱的一宫女认为：“真正的美人必须具备三个条件，一是美貌，二是善歌舞，三是体态。”西施只具备了第一个条件，于是，越王花了三年时间，教以歌舞、步履、礼仪等。后越王宠爱的一宫女认为：“真正的美人必须具备三个条件，一是美貌，二是善歌舞，三是体态。”西施只具备了第一个条件，于是，越王花了三年时间，教以歌舞、步履、礼仪等。后
+				</p>
+			</article>
+			<aside>
+				<figure>
+					<img src="img/pic5.jpg">
+					<div class="cover">
+						<span></span>
+						<strong>前端技术</strong>
+					</div>
+				</figure>
+				<div>
+					<ul>
+						<li>								<div class="mark"></div>前端前端前端前端.........<span>前端</span></li>
+						<li>
+							<div class="mark"></div>前端前端前端前端前端.........<span>前端</span>
+						</li>
+						<li>
+							<div class="mark"></div>前端前端前端前端前端前端......<span>前端</span>
+						</li>
+					</ul>
+					<div class="box">
+						<span>0<i class="line"></i></span>
+						<i>
+						ONE TWO THREE FORE FIVE hello world hello world
+						<i>
+					</div>
+					<div class="content">
+						<span>W</span>orld hello world hello world hello world hello world hello world hello world hello world hello  world
+					</div>
+				</div>
+			</aside>
+		</section>
+	</main>
+	<footer>
+		<div class="line">ife.baidu.com</div>
+	</footer>
+</body>
+</html>
