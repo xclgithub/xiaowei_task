@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>task9</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/task9.css">
+</head>
+<body>
+	<div id="container">
+	<!--网页头部-->
+		<header>
+			<img src="img/icon9.png">
+			<div>
+				<img src="img/icon6.png">
+				<a href="#">登录</a>
+			</div>
+			<form>
+				<img src="img/icon5.png">
+				<input type="type" name="search">
+			</form>
+		</header>
+		<!--网页主体部分-->
+		<div id="centerbox">
+		<!--左边导航-->
+			<nav id="nav">
+			<section>
+				<div>
+					<figure>
+						<img src="img/icon3.png">
+						<h1>ABC123</h1>
+					</figure>
+					<article>
+						<h2>
+							110
+							<span>收藏</span>
+						</h2>
+						<h2>
+							313
+							<span>粉丝</span>
+						</h2>
+					</article>
+				</div>
+				<ul>
+					<li class="active"><a href="#">个人报表
+						<!--<ul>
+						
+							<li><a href="#">文件一</a></li>
+							<li><a href="#">文件二
+								<ul>
+									<li><a href="#">文档一</a></li>
+									<li><a href="#">文档二</a></li>
+								</ul>
+							</a></li>
+							<li><a href="#">文件三</a></li>
+						</ul>-->
+					</a></li>
+					<li><a href="#">个人收藏</a></li>
+					<li><a href="#">我的分享</a></li>
+					<li><a href="#">图库</a></li>
+					<li><a href="#">成长记录</a></li>
+					<li><a href="#">账户信息</a></li>
+				</ul>
+			</section>
+		</nav>
+		<!--右侧内容-->
+		<main>
+			<section>
+			<!--面包屑导航-->
+				<nav>
+					<span>
+						<a href="#">C站/</a>
+					</span>
+					<span>
+						<a href="#">个人报表/</a>
+					</span>
+					<span>
+						<a href="#">文件一/</a>
+					</span>
+					<span>
+						<a href="#">文档一</a>
+					</span>
+				</nav>
+				<!--网页主体内容-->
+				<center>
+					<section>
+						<form class="searchform">
+							<article>
+								<label>查询项</label>
+								<select>
+									<option>第一项</option>
+								</select>
+							</article>
+							<article>
+								<label>买方</label>
+								<input type="text" name="buyer">
+								<label>卖方</label>
+								<input type="text" name="seller">
+							</article>
+							<article>
+								<label>日期</label>
+								<input type="data" name="data" placeholder="2016-4-1">
+								<label>人数</label>
+								<input type="number" name="personnum" placeholder="10人">
+							</article>
+							<article>
+								<label>总耗时</label>
+								<input type="number" name="daynum" placeholder="8天">
+								<label>成交项</label>
+								<input type="number" name="pronum" placeholder="10项">
+							</article>
+							<article>
+								<input type="submit" name="submit" value="搜索">
+							</article>
+						</form>
+					</section>
+					<section>
+						<div class="time">
+							<span class="mark"><</span>
+							<ul>
+								<li>
+									<p>10:00am</p>
+									<h2>
+										<span>￥</span>
+										1200
+									</h2>
+								</li>
+								<li>
+									<p>11:00am</p>
+									<h2>
+										<span>￥</span>
+										1300
+									</h2>
+								</li>
+								<li>
+									<p>12:00am</p>
+									<h2>
+										<span>￥</span>
+										1400
+									</h2>
+								</li>
+								<li>
+									<p>13:00am</p>
+									<h2>
+										<span>￥</span>
+										1500
+									</h2>
+								</li>
+								<li>
+									<p>14:00am</p>
+									<h2>
+										<span>￥</span>
+										1600
+									</h2>
+								</li>
+								<li>
+									<p>15:00am</p>
+									<h2>
+										<span>￥</span>
+										1700
+									</h2>
+								</li>
+							</ul>
+							<span class="mark">></span>
+							<figure>
+								<img src="img/icon13.png">
+								历史查询
+							</figure>
+						</div>
+					</section>
+					<section>
+						<p class="title">2016年4月份统计</p>
+						<ul>
+							<li class="first">
+								<p>13311<br/><span>成交量</span></p>
+								<div></div>
+							</li>
+							<li class="second">
+								<p>13311<br/><span>成交量</span></p>
+								<div></div>
+							</li>
+							<li class="third">
+								<p>13311<br/>
+								<span>成交量</span></p>
+								<div></div>
+							</li>
+							<li class="forth">
+								<p>13311<br/><span>成交量</span></p>
+								<div></div>
+							</li>
+						</ul>
+					</section>
+					<section>
+						<article class="tabone">
+							<h1>
+								第一组项目
+							</h1>
+							<div>
+								<ul>
+									<li>项目一</li>
+									<li>项目二</li>
+									<li>项目三</li>
+									<li>项目四</li>
+									<li>项目五</li>
+								</ul>
+								<table>
+									<tr>
+										<td>购买材料一</td>
+										<td>购买材料一</td>
+										<td>购买材料一</td>
+										<td>购买材料一</td>
+									</tr>
+									<tr>
+										<td>购买材料二</td>
+										<td>购买材料二</td>
+										<td>购买材料二</td>
+										<td>购买材料二</td>
+									</tr>
+									<tr>
+										<td>购买材料四</td>
+										<td>购买材料四</td>
+										<td>购买材料四</td>
+										<td>购买材料四</td>
+									</tr>
+									<tr>
+										<td>购买材料六</td>
+										<td>购买材料六</td>
+										<td>购买材料六</td>
+										<td>购买材料六</td>
+									</tr>
+									<tr>
+										<td>购买材料十三</td>
+										<td>购买材料十三</td>
+										<td>购买材料十三</td>
+										<td>购买材料十三</td>
+									</tr>
+									<tr>
+										<td>购买材料二十</td>
+										<td>购买材料二十</td>
+										<td>购买材料二十</td>
+										<td>购买材料二十</td>
+									</tr>
+								</table>
+							</div>
+						</article>
+						<article class="tabtwo">
+							<h1>
+								第一组项目
+							</h1>
+							<h2>
+								标题
+							</h2>
+							<p>
+								项目报表三
+							</p>
+							<table>
+								<tr>
+									<th>价格</th>
+									<th>负责人</th>
+								</tr>
+								<tr>
+									<td>￥158</td>
+									<td>小A</td>
+								</tr>
+							</table>
+							<h2>
+								详情描述
+							</h2>
+							<p>
+								该项目的负责人是......
+							</p>
+							<form>
+								<input type="checkbox" name="box">
+								<input type="text" placeholder="遵守保密协议">
+								<input type="submit" name="search" value="搜索" >
+							</form>
+						</article>
+						<article class="tabthree">
+							<h1>日历</h1>
+							<form>
+								<select>
+									<option>2016年</option>
+								</select>
+								<select>
+									<option>月</option>
+								</select>
+								<select>
+									<option>标注日期</option>
+								</select>
+								<button>返回今日</button>
+							</form>
+						</article>
+						<article class="tabfour">
+							<h1>汽车行业品牌榜</h1>
+							<table>
+								<tr>
+									<th>排名</th>
+									<th>品牌</th>
+									<th>搜索指数</th>
+								</tr>
+								<tr>
+									<td>1</td>
+									<td>大众</td>
+									<td>
+										<span>12937493</span>
+										<progress value="80" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>2</td>
+									<td>丰田</td>
+									<td>
+										<span>6283713</span>
+										<progress value="40" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>3</td>
+									<td>奥迪</td>
+									<td>
+										<span>6354827</span>
+										<progress value="60" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>4</td>
+									<td>本田</td>
+									<td>
+										<span>826822</span>
+										<progress value="70" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>5</td>
+									<td>福特</td>
+									<td>
+										<span>5283920</span>
+										<progress value="30" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>6</td>
+									<td>宝马</td>
+									<td>
+										<span>53832783</span>
+										<progress value="66" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>7</td>
+									<td>现代</td>
+									<td>
+										<span>7263829</span>
+										<progress value="49" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>8</td>
+									<td>起亚</td>
+									<td>
+										<span>57239</span>
+										<progress value="77" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>9</td>
+									<td>奔驰</td>
+									<td>
+										<span>528929</span>
+										<progress value="88" max="100">
+									</td>
+								</tr>
+								<tr>
+									<td>10</td>
+									<td>别克</td>
+									<td>
+										<span>2335</span>
+										<progress value="89" max="100">
+									</td>
+								</tr>
+							</table>
+						</article>
+					</section>
+				</center>
+			</section>
+		</main>
+		</div>
+	</div>
+</body>
+</html>
